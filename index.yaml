@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  elasticsearch:
+  - annotations:
+      category: WorkFlow
+    apiVersion: v1
+    appVersion: 2.4.6
+    description: An Elasticsearch2 Helm chart for Kubernetes
+    home: https://github.com/fajarhide/helm/tree/main/charts/elasticsearch
+    maintainers:
+    - email: fajarhide@gmail.com
+      name: Fajar
+    name: elasticsearch
+    urls:
+    - https://github.com/fajarhide/helm/raw/gh-pages/packages/elasticsearch-0.1.0.tgz
+    version: 8.0.4
+generated: "2022-08-09T19:08:11.527909+07:00"
